@@ -1,4 +1,4 @@
-# Défi SQL pour Testeurs Logiciels : Analyser les Données Universitaires
+# Défi SQL : Analyser les Données Universitaires
 
 Bienvenue sur le dépôt GitHub du TP "Défi SQL pour Testeurs Logiciels : Analyser les Données Universitaires"! Ce projet est idéal pour les testeurs logiciels et les analystes de données qui souhaitent affiner leurs compétences en SQL en relevant des défis basés sur une base de données universitaire fictive. En naviguant à travers ces données complexes, vous mettrez en pratique des techniques avancées de requêtes SQL pour extraire des insights, résoudre des problèmes de gestion de données et découvrir les interactions entre différents sets de données.
 
